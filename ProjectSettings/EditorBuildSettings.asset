@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Platformer T/Scenes/Company_Logo.unity
+    guid: 7668d648c33c1624b9081e6295562187
+  - enabled: 1
+    path: Assets/Platformer T/Scenes/Game_Intro.unity
+    guid: 9ce8f67acc5d5c24d82875e4c40ea463
+  - enabled: 1
+    path: Assets/Platformer T/Scenes/Main.unity
+    guid: 08968a3513c926841bc104744bbfc4a7
+  - enabled: 1
+    path: Assets/Snake R Almost/Scenes/Snake_Main.unity
+    guid: c93bd774473245240bd4191c6a5a3561

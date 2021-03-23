@@ -1,0 +1,1 @@
+Before using the package, make sure you crate a "Sorting Layer" with the name of "Cursor" and place it at the buttom of all the other layers so the custom cursor/pointer always be at the top of all the others objects in the scene.

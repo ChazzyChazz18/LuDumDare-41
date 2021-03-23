@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7a24b15d61470aa48a1c62c2727e8cce
+timeCreated: 1524433800
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: YetBumblerOutlin
+  fontNames:
+  - YetBumblerOutlin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
